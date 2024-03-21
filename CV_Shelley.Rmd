@@ -1,0 +1,15 @@
+---
+title: "CV_Shelly"
+output: html_document
+date: "2024-03-21"
+---
+Possible Relationships between Two Muscle Fiber Types in Various Species of Lizards
+
+AUTHOR: Shelley Wright
+1Department : STAN
+
+Keywords: fast-twitch glycolytic muscle fibers (FG), fast-twitch oxidative-glycolytic muscle fibers (FOG), linear regression, negative correlation   
+ABSTRACT
+BRIEF 1 PARAGRAPH ABSTRACT.
+     Lizards have two main types of muscle fibers located in their hindlimbs.  Fast-twitch glycolytic muscle fibers are considered to have high force and are used for sprinting.  This type of fiber also tires out quite quickly.  Fast-twitch oxidative-glycolytic muscle fibers have an intermediate force and speed and tire out more slowly than the fast-twitch glycolytic type.  By studying the two main types of fibers, one can determine whether or not correlations between the masses of different types of fibers in these specific lizard species exist.  Further advanced analysis and predictive models can be used to see if the fiber types have adapted over the years in relationship to evolution and predator/prey analogies.      
+ 

@@ -958,3 +958,126 @@ cd tools
 cd Tools
 ls -al
 cd ..
+ls -al
+mkdir Resume
+cp CV2024.md /Resume
+cd Resume
+ls-al
+ls -al
+cp CV2024.md /Resume CV2024.md
+cd ..
+cp CV2024.md /Resume
+cd Resume
+ls - al
+ls -al
+cd ..
+cp CV2024.md Resume/
+cd Resume
+ls-al
+ls -al
+cd ..
+git init
+git add. /Resume CV2024.md
+
+cd Git
+cd git
+git status
+git add CV2024.md
+git commit -m"assignment for class to push a file"
+git remote add origin https://github.com/shels6782487/your-repository.git
+git push -u orgin master
+git push -u CV2024.md
+ls -a
+git status
+git add CV2024.md
+git commit -m"assignment for class to push a file"
+git status
+git remote -v
+git add CV2024.md
+git status
+ls -al
+git add .
+git push -u CV2024.md
+git push origin master
+git remote add origin https://github.com/shels6782487/Bio5153.git
+git branch -m main
+git push -u origin main
+git config --list
+nano git config --list
+git config --global user,name "shels6782487"
+git config --global user.name "shels6782487"
+git config --list
+git push -u orgin master
+git clone https://github.com/shels6782487/repository.git
+git remote -v
+git "# Bio5153" >> README.md
+echo "# Bio5153" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add orgin https://github.com/shels6782487/Bio5153.git
+git push -u origin main
+git add README.md
+git commit -m "first commit"
+git status
+git add CV2024.md
+git commit -m "class push to github"
+cd ..
+ls -al
+cd Resume
+cd local
+ls -al
+cd home
+ls -al
+cd Resume
+cd local
+cd git
+cd Git
+cd ..
+ls -al
+cd local
+cd ..
+cd  local
+ls- al
+ls -al
+ls
+cd home
+ls
+ls -al
+cd local
+cd ..
+cd local
+ls -al
+cd bio~
+cd biol5153
+cd Bio5153
+ls -al
+git add CV2024.md
+git commit -m"first push to hub"
+git status
+ls -al
+cd Resume
+ls -al
+git add CV2024.md 
+git commit -m"push to github"
+git status
+ls -al
+git add CV2024.md Resume/CV2024.md
+git add CV2024.md 
+git status
+cd ..
+ls -al
+cd local
+ls -al
+cd scripts
+ls -al
+git add First_python_script 
+git commit -m"First push"
+cd ..
+cd Bioproject
+ls -al
+cd Bio5153
+ls -al
+cd bio_project/
+ls -al
